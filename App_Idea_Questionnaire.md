@@ -12,7 +12,7 @@ None
 ## 1. App Overview
 
 What is the name of your app?  
-> Luganda Translator 2
+> Luganda Translator
 
 Describe your app idea in 2–3 sentences:  
 > My app is called Luganda Translator. It helps people translate words and sentences from English to Luganda and back. This way, kids like me can learn a new language and talk to people who speak Luganda.
