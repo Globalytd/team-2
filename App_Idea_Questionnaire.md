@@ -1,11 +1,11 @@
 # App Idea Questionnaire
 
 ## Students' Name:
-Daniel Musigire
+Jesse Wasswa
 ## Date:
-April 6, 2026
+April 13, 2026
 ## Team Members (if any):
-None
+Khalan Nakibuka and Julian Nakato
 
 ---
 
